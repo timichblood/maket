@@ -1,0 +1,39 @@
+<svg width="81" height="80" viewBox="0 0 81 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_2685_2012)">
+<path d="M4.5 36C4.5 16.1178 20.6178 0 40.5 0C60.3823 0 76.5 16.1178 76.5 36C76.5 55.8823 60.3823 72 40.5 72C20.6178 72 4.5 55.8823 4.5 36Z" fill="#B6D7FF"/>
+<g clip-path="url(#clip0_2685_2012)">
+<g clip-path="url(#clip1_2685_2012)">
+<path d="M56 43.8742C56 42.6536 55.2139 41.6227 54.125 41.2344V31.5223L56 30.7492L40 24.3296L24 30.7492L40 37.1689L52.25 32.2752V41.2344C51.1611 41.6227 50.375 42.6536 50.375 43.8742C50.375 44.9917 51.035 45.951 51.9813 46.4043L50.4236 51.0776L52.2015 51.6708L53.1875 48.7128L54.1735 51.6708L55.9514 51.0776L54.3937 46.4043C55.34 45.951 56 44.9918 56 43.8742Z" fill="white"/>
+</g>
+</g>
+<g clip-path="url(#clip2_2685_2012)">
+<g clip-path="url(#clip3_2685_2012)">
+<path d="M40 39.1893L31.5625 35.8013V38.249C31.5625 40.9215 35.1898 42.9365 40 42.9365C44.8102 42.9365 48.4375 40.9215 48.4375 38.249V35.8013L40 39.1893Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_2685_2012" x="0.5" y="0" width="80" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2685_2012"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2685_2012" result="shape"/>
+</filter>
+<clipPath id="clip0_2685_2012">
+<rect width="32" height="27.3413" fill="white" transform="translate(24 24.3296)"/>
+</clipPath>
+<clipPath id="clip1_2685_2012">
+<rect width="32" height="27.3413" fill="white" transform="translate(24 24.3296)"/>
+</clipPath>
+<clipPath id="clip2_2685_2012">
+<rect width="16.875" height="7.13525" fill="white" transform="translate(31.5625 35.8013)"/>
+</clipPath>
+<clipPath id="clip3_2685_2012">
+<rect width="16.875" height="7.13525" fill="white" transform="translate(31.5625 35.8013)"/>
+</clipPath>
+</defs>
+</svg>
